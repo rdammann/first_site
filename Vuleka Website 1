@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+
+<link href='vuleka.css' rel='stylesheet'>
+
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vuleka</title>
+
+</head>
+
+<body>
+
+
+
+  <div class="jumbotron">
+    <div class='container'>
+  <h1>Vuleka School For The Deaf</h1>  
+    </div>
+  </div>
+
+
+
+  <div id="about">
+    <div class="container">
+    <h2><small>About</small></h2>
+
+  </div>
+
+  <div id="news">
+    <div class="container">
+    <h2><small>News</small></h2>
+
+         <form role='form'>
+      <label for="email">Join our mailing list</label>
+      <input type="text" name="email" >
+      <button class='btn btn-success btn btn-small'>Send</button>
+    </form>
+
+  </div>
+
+
+  <div id="donate">
+    <div class="container">
+    <h2><small>Donate</small></h2>
+    <div id='social-buttons'>
+      <button class='btn btn-twitter btn-lg'>Twitter</button>
+      <button class='btn btn-facebook btn-lg'>Facebook</button>
+      <button class='btn btn-pinterest btn-lg'>Pinterest</button>
+    </div>
+  </div>
+
+</div>
+</body>
+
+</html>
