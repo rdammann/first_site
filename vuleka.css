@@ -1,0 +1,184 @@
+
+
+.jumbotron {
+  min-height: 600px;
+  background-image: url(http://www.sahra.org.za/sites/default/files/styles/800x600px/public/caseimages/IMG_1344.JPG);
+  background-size: cover;
+  background-attachment: fixed;
+  background-margin: 0 auto;
+  text-indent: 10px;
+  color: rgba(255 255 0 1);
+}
+
+body {
+  padding: 0;
+  margin: 0 0 0 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0 0 16px;
+  color: white;
+  font-size: 60px;
+}
+
+.jumbotron ul {
+      padding: 14px;
+      background: rgba(0, 0, 0, 0.5);
+      text-align: left;
+      margin: 550px 0 0 0;
+    }
+
+.jumbotron li {
+      display: inline-block;
+      padding: 0px 0px 0px 0px;
+      color: white;
+      }
+
+a {
+    color: white;
+    font-size: 28px;
+}
+
+li form {
+  display: inline;
+}
+
+.about {
+  width: 22%;
+}
+.news {
+  width: 22%;
+}
+.donate {
+  width: 22%;
+}
+.f {
+  width: 30%;
+  padding: 0 20px 0 0;
+}
+
+
+
+
+#about {
+  background: rgba(20, 100, 160, 0.4);
+}
+
+h2 {
+  margin: 0;
+  color: white;
+  font-size: 50px;
+  padding: 15px 0 15px 30px;
+}
+
+h3 {
+  margin: 0;
+  color: white;
+  font-size: 25px;
+  padding: 15px 0 0 30px;}
+
+#news {
+  background: rgba(255, 200, 70, 0.7);
+}
+#news a {
+  font-size:22px;
+  font-weight: bold;
+  padding: 0 0 0 30px;
+}
+
+#news ul {
+  padding: 5px 0 0 53px;
+}
+
+#news li {
+  color: white;
+  font-size: 22px;
+}
+
+#donate {
+  background: rgba(100, 100, 41, 0.6);
+} 
+
+#donate h3 {
+  font-size: 20px;
+}
+
+#donate ul {
+  padding: 10px 0 60px 0;
+  background: rgba(0, 0, 0, 0);
+  text-align: center;
+  margin: 0;
+    }
+
+#donate li {
+  display: inline-block;
+  padding: 0 20px 0px 20px;
+  color: white;
+      }
+
+.donate1 {
+  width: 29%;
+}
+.sponsor {
+  width: 29%;
+}
+.involved {
+  width: 29%;
+}
+
+
+#donate h4 {
+  font-size: 20px;
+}
+
+#donate p {
+  font-size: 18px;
+}
+
+
+#footer {
+  background-color: rgba(255, 255, 255, 1); 
+  text-align: center; 
+}
+
+#footer ul {
+      padding: 0;
+      background: rgba(0, 0, 0, 0);
+      text-align: center;
+      margin: 0;
+    }
+
+#footer li {
+      display: inline-block;
+      padding: 25px 20px 0px 20px;
+      color: white;
+      }
+
+#footer a {
+  color: rgba(20, 100, 160, 1);
+  font-size: 23px;
+  padding:20px 0 20px 0;
+}
+
+.facebook img{
+  height: 50px;
+}
+
+.twitter img{
+  height: 50px;
+}
+
+.arrow img{
+  height: 50px;
+}
+
+ @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+      }
+      li {
+        display: block;
+        padding: 5px;
+      }
+    }
